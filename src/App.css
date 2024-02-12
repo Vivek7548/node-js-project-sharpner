@@ -1,0 +1,17 @@
+.background-overlay {
+    background-color: rgba(0, 0, 0, 0.6);
+    /* Adjust the opacity as needed */
+    min-height: 100vh;
+}
+
+.input-card {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.post-card {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+}
